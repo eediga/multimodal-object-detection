@@ -1,6 +1,6 @@
 # MT-DETR
 
-This project is the code of **Southeast Missouri State University**  Robust End-to-end Multimodal Detection with Confidence Fusion by *Eashwar Eidga*, *Monesh Venkul Vommi*, *Harish Reddy*. 
+This project is the code of **Southeast Missouri State University**  Robust End-to-end Multimodal Detection with Confidence Fusion by *Eashwar Ediga*, *Monesh Venkul Vommi*, *Harish Reddy*. 
 <!-- ### Visualized Results in different weathers and times -->
 
 <div align=center>  
